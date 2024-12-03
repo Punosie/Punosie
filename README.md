@@ -1,9 +1,5 @@
 # Hi there! 👋 I'm Shubhankar Kaushik  
 
-<div align="center">
-    <img src="https://media.tenor.com/XubH9-yZpvIAAAAC/anime-hello.gif" alt="Hello Anime GIF" width="400">
-</div>  
-
 🚀 A passionate 3rd-year B.Tech student exploring the exciting world of technology and coding.  
 
 ---
