@@ -1,3 +1,7 @@
+<p align = "center">
+    <img src="gif/02.gif" alt="gmail" style="vertical-align:top; margin:6px 4px">
+</p>
+
 # Hi there! 👋 I'm Shubhankar Kaushik  
 
 🚀 A passionate 3rd-year B.Tech student exploring the exciting world of technology and coding.  
