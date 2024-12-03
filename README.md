@@ -16,7 +16,19 @@
 - 💻 Building dynamic and interactive applications using the **MERN stack** and **React.js**.  
 - 🐍 Proficient in **Python** for automation, scripting, and AI tasks.  
 - 🎨 Exploring creative 3D modeling and animations with **Blender**.  
-- 🌱 Always learning and growing to solve real-world problems with innovative solutions.  
+- 🌱 Always learning and growing to solve real-world problems with innovative solutions.
+
+---
+
+## Github Stats
+
+<p align="center">
+  <!-- First Pair of Stats -->
+
+<a href="https://github.com/Punosie">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Punosie&bg_color=150034&color=9BE8E9&line=8c52ff&point=F3A7FF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  </a>
+</p>
 
 ---
 
@@ -40,11 +52,6 @@
 </p>  
 
 ---
-
-## 🎨 Creativity Meets Code  
-I blend my technical expertise with creativity to design impactful applications, stunning 3D models, and breathtaking animations. Whether coding or gaming, I’m all about pushing boundaries.  
-
---- 
 
 ### 💬 Let's Collaborate  
 I love collaborating on innovative projects, so feel free to reach out if you want to work on something creative, challenging, or just fun!  
