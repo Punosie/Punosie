@@ -1,5 +1,5 @@
-<p align = "center">
-    <img src="gif/02.gif" alt="gmail" style="vertical-align:top; margin:6px 4px">
+<p align="center">
+    <img src="gif/02.gif" alt="gmail">
 </p>
 
 # Hi there! 👋 I'm Shubhankar Kaushik  
@@ -21,11 +21,7 @@
 ---
 
 ## 🔧 Technologies & Tools  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![MERN](https://img.shields.io/badge/-MERN-4CAF50?style=flat-square&logo=mongodb&logoColor=white)  
-![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat-square&logo=ros&logoColor=white)  
-![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MERN](https://img.shields.io/badge/-MERN-4CAF50?style=flat-square&logo=mongodb&logoColor=white) ![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat-square&logo=ros&logoColor=white) ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
@@ -34,7 +30,7 @@
 <p align="inline">
     <a href="mailto:shubhankar.kaushik2003@gmail.com">
         <img src="svg/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
-    </a> 
+    </a>
     <a href="https://www.instagram.com/pun0sie/">
         <img src="svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
     </a>  
@@ -49,3 +45,10 @@
 I blend my technical expertise with creativity to design impactful applications, stunning 3D models, and breathtaking animations. Whether coding or gaming, I’m all about pushing boundaries.  
 
 --- 
+
+### 💬 Let's Collaborate  
+I love collaborating on innovative projects, so feel free to reach out if you want to work on something creative, challenging, or just fun!  
+
+<p align="center">
+    <img src="gif/01.gif" alt="collaborate">
+</p>
