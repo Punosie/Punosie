@@ -13,9 +13,8 @@
 ## 🌟 About Me  
 - 🏸 **Badminton** enthusiast who loves smashing on and off the court.  
 - 🎮 Gamer exploring virtual worlds and strategic adventures.  
-- 🌸 Anime fan captivated by breathtaking stories and characters.  
-- 🔭 Currently diving deep into **ROS 2 for robotics development**.  
-- 💻 Building dynamic and interactive applications using the **MERN stack** and **React.js**.  
+- 🌸 Anime fan captivated by breathtaking stories and characters.
+- 💻 Building dynamic and interactive applications using the **MERN stack**.  
 - 🐍 Proficient in **Python** for automation, scripting, and AI tasks.  
 - 🎨 Exploring creative 3D modeling and animations with **Blender**.  
 - 🌱 Always learning and growing to solve real-world problems with innovative solutions.
