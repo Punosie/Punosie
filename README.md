@@ -6,7 +6,7 @@
 
 🚀 A passionate 3rd-year B.Tech student exploring the exciting world of technology and coding.  
 
-[My Website](https://punosie.github.io/My_Resume/)
+[My Website](https://punosie.vercel.app/)
 
 ---
 
