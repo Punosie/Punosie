@@ -4,7 +4,7 @@
 
 # Hi there! 👋 I'm Shubhankar Kaushik  
 
-🚀 A passionate 3rd-year B.Tech student exploring the exciting world of technology and coding.  
+🚀 A B.Tech student exploring the exciting world of technology and coding.  
 
 [My Website](https://punosie.vercel.app/)
 
