@@ -1,6 +1,6 @@
 <!-- ============ HEADER BANNER ============ -->
 <p align="center">
-  <img src="svg/header.svg" alt="Shubhankar Kaushik — SDE @ Bullit Fintech · LLM Automation & MCP · Full-Stack" width="100%" />
+  <img src="img/header.png" alt="Shubhankar Kaushik — SDE @ Bullit Fintech · LLM Automation & MCP · Full-Stack" width="100%" />
 </p>
 
 <!-- ============ VISITOR COUNTER ============ -->
@@ -224,5 +224,5 @@ class Shubhankar:
 </p>
 
 <p align="center">
-  <img src="svg/footer.svg" alt="footer" width="100%" />
+  <img src="img/footer.png" alt="footer" width="100%" />
 </p>
