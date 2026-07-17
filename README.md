@@ -1,6 +1,6 @@
 <!-- ============ HEADER BANNER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api/?type=waving&color=0:1a1b27,50:70a5fd,100:bf91f3&height=200&section=header&text=Shubhankar%20Kaushik&fontColor=c0caf5&fontSize=48&fontAlignY=38&desc=SDE%20%40%20Bullit%20Fintech%20%C2%B7%20LLM%20Automation%20%26%20MCP%20%C2%B7%20Full-Stack&descAlignY=58&descSize=18&descColor=a9b1d6&animation=fadeIn" alt="header banner" />
+  <img src="svg/header.svg" alt="Shubhankar Kaushik — SDE @ Bullit Fintech · LLM Automation & MCP · Full-Stack" width="100%" />
 </p>
 
 <!-- ============ VISITOR COUNTER ============ -->
@@ -224,5 +224,5 @@ class Shubhankar:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api/?type=waving&color=0:bf91f3,50:70a5fd,100:1a1b27&height=120&section=footer" alt="footer" />
+  <img src="svg/footer.svg" alt="footer" width="100%" />
 </p>
