@@ -27,7 +27,7 @@ class Shubhankar:
     focus       = ["LLM Automation", "MCP Servers", "Agent Orchestration"]
     foundation  = ["Full-Stack", "Computer Vision", "Robotics"]
     education   = "B.Tech ECE, JIIT Noida (2025)"
-    location    = "Bengaluru, India 📍"
+    location    = "Bengaluru, India"
 ```
 
 - 🤖 I build **automation pipelines and LLM-powered internal tools** that cut manual effort and improve operational efficiency.
