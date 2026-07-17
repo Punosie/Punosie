@@ -122,13 +122,13 @@ class Shubhankar:
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Punosie/TradeSim">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Punosie&repo=TradeSim&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="TradeSim" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Punosie&repo=TradeSim&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="TradeSim" />
       </a>
       <p>📈 Crypto trading simulator — <b>FastAPI</b> backend for real-time order matching & trade metrics, a <b>scikit-learn</b> model predicting mid-prices, and <b>MongoDB</b> for historical insights.</p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Punosie/D2C-AI-Employee">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Punosie&repo=D2C-AI-Employee&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="D2C-AI-Employee" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Punosie&repo=D2C-AI-Employee&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="D2C-AI-Employee" />
       </a>
       <p>🤝 An <b>LLM-powered agent</b> that automates D2C operations — turning workflows into autonomous, tool-using assistants.</p>
     </td>
@@ -136,13 +136,13 @@ class Shubhankar:
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Punosie/facebook-graph-mcp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Punosie&repo=facebook-graph-mcp&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="facebook-graph-mcp" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Punosie&repo=facebook-graph-mcp&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="facebook-graph-mcp" />
       </a>
       <p>🔌 An <b>MCP server</b> wrapping the Facebook Graph API — giving AI agents structured, typed access to social data.</p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Punosie/Autonomous-Vehicle">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Punosie&repo=Autonomous-Vehicle&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Autonomous-Vehicle" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Punosie&repo=Autonomous-Vehicle&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Autonomous-Vehicle" />
       </a>
       <p>🚗 Final-year <b>computer vision + robotics</b> project exploring perception and control for autonomous driving.</p>
     </td>
@@ -150,13 +150,13 @@ class Shubhankar:
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Punosie/DhanMantri">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Punosie&repo=DhanMantri&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="DhanMantri" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Punosie&repo=DhanMantri&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="DhanMantri" />
       </a>
       <p>💰 A <b>fintech</b> application for smarter personal money management.</p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Punosie/Streamify">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Punosie&repo=Streamify&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Streamify" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Punosie&repo=Streamify&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Streamify" />
       </a>
       <p>🎵 A <b>music streaming analytics dashboard</b> turning listening data into visual insight.</p>
     </td>
@@ -168,8 +168,8 @@ class Shubhankar:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Punosie&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&count_private=true&include_all_commits=true" alt="stats" />
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Punosie&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&langs_count=8" alt="top languages" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Punosie&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&count_private=true&include_all_commits=true" alt="stats" />
+  <img width="41%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Punosie&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&langs_count=8" alt="top languages" />
 </p>
 
 <p align="center">
@@ -177,7 +177,7 @@ class Shubhankar:
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Punosie&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
+  <img src="https://profile-trophy.vercel.app/?username=Punosie&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
 </p>
 
 <!-- ============ ACTIVITY GRAPH ============ -->
