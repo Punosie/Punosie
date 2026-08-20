@@ -121,44 +121,76 @@ class Shubhankar:
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Punosie/TradeSim">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Punosie&repo=TradeSim&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="TradeSim" />
-      </a>
-      <p>📈 Crypto trading simulator — <b>FastAPI</b> backend for real-time order matching & trade metrics, a <b>scikit-learn</b> model predicting mid-prices, and <b>MongoDB</b> for historical insights.</p>
+      <h3 align="center"><a href="https://github.com/Punosie/TradeSim">📈 TradeSim</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+      </p>
+      <p>Crypto trading simulator — <b>FastAPI</b> backend for real-time order matching &amp; trade metrics, a <b>scikit-learn</b> model predicting mid-prices, and <b>MongoDB</b> for historical insights.</p>
+      <p align="center"><a href="https://github.com/Punosie/TradeSim"><img src="https://img.shields.io/badge/Code-1a1b27?style=flat-square&logo=github&logoColor=70a5fd" alt="code" /></a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Punosie/D2C-AI-Employee">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Punosie&repo=D2C-AI-Employee&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="D2C-AI-Employee" />
-      </a>
-      <p>🤝 An <b>LLM-powered agent</b> that automates D2C operations — turning workflows into autonomous, tool-using assistants.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Punosie/facebook-graph-mcp">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Punosie&repo=facebook-graph-mcp&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="facebook-graph-mcp" />
-      </a>
-      <p>🔌 An <b>MCP server</b> wrapping the Facebook Graph API — giving AI agents structured, typed access to social data.</p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Punosie/Autonomous-Vehicle">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Punosie&repo=Autonomous-Vehicle&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Autonomous-Vehicle" />
-      </a>
-      <p>🚗 Final-year <b>computer vision + robotics</b> project exploring perception and control for autonomous driving.</p>
+      <h3 align="center"><a href="https://github.com/Punosie/D2C-AI-Employee">🤝 D2C-AI-Employee</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+        <img src="https://img.shields.io/badge/Llama%203.3-F55036?style=flat-square&logo=meta&logoColor=white" alt="Llama 3.3" />
+      </p>
+      <p>An <b>LLM-powered agent</b> for D2C brands — connects Shopify, Meta Ads and Sheets into one data model and answers questions in natural language, with every number cited back to its source row.</p>
+      <p align="center"><a href="https://github.com/Punosie/D2C-AI-Employee"><img src="https://img.shields.io/badge/Code-1a1b27?style=flat-square&logo=github&logoColor=70a5fd" alt="code" /></a> <a href="https://d2c-ai-employee-ui.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-1a1b27?style=flat-square&logo=vercel&logoColor=bf91f3" alt="live demo" /></a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Punosie/DhanMantri">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Punosie&repo=DhanMantri&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="DhanMantri" />
-      </a>
-      <p>💰 A <b>fintech</b> application for smarter personal money management.</p>
+      <h3 align="center"><a href="https://github.com/Punosie/facebook-graph-mcp">🔌 facebook-graph-mcp</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/MCP-8c52ff?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP" />
+        <img src="https://img.shields.io/badge/FastMCP-2ea043?style=flat-square&logo=python&logoColor=white" alt="FastMCP" />
+        <img src="https://img.shields.io/badge/Graph%20API-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Graph API" />
+      </p>
+      <p>An <b>MCP server</b> wrapping the Facebook Graph API (v25.0), built with <b>FastMCP</b> — giving AI agents structured, typed access to social data.</p>
+      <p align="center"><a href="https://github.com/Punosie/facebook-graph-mcp"><img src="https://img.shields.io/badge/Code-1a1b27?style=flat-square&logo=github&logoColor=70a5fd" alt="code" /></a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Punosie/Streamify">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Punosie&repo=Streamify&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Streamify" />
-      </a>
-      <p>🎵 A <b>music streaming analytics dashboard</b> turning listening data into visual insight.</p>
+      <h3 align="center"><a href="https://github.com/Punosie/Autonomous-Vehicle">🚗 Autonomous-Vehicle</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black" alt="YOLOv8" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+        <img src="https://img.shields.io/badge/TFLite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TFLite" />
+      </p>
+      <p>Final-year <b>computer vision + robotics</b> project — on-device <b>YOLOv8</b> detection over a live camera feed, exploring perception and control for autonomous driving.</p>
+      <p align="center"><a href="https://github.com/Punosie/Autonomous-Vehicle"><img src="https://img.shields.io/badge/Code-1a1b27?style=flat-square&logo=github&logoColor=70a5fd" alt="code" /></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/Punosie/DhanMantri">💰 DhanMantri</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+        <img src="https://img.shields.io/badge/Chakra%20UI-319795?style=flat-square&logo=chakraui&logoColor=white" alt="Chakra UI" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      </p>
+      <p>A <b>fintech</b> dashboard for smarter money management — real-time market performance, OHLC price visualisations and global market news in one view.</p>
+      <p align="center"><a href="https://github.com/Punosie/DhanMantri"><img src="https://img.shields.io/badge/Code-1a1b27?style=flat-square&logo=github&logoColor=70a5fd" alt="code" /></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/Punosie/Streamify">🎵 Streamify</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+        <img src="https://img.shields.io/badge/Chakra%20UI-319795?style=flat-square&logo=chakraui&logoColor=white" alt="Chakra UI" />
+        <img src="https://img.shields.io/badge/Recharts-22B5BF?style=flat-square&logo=chartdotjs&logoColor=white" alt="Recharts" />
+      </p>
+      <p>A <b>music streaming analytics dashboard</b> — users, streams, revenue and top-artist metrics turned into responsive, visual insight.</p>
+      <p align="center"><a href="https://github.com/Punosie/Streamify"><img src="https://img.shields.io/badge/Code-1a1b27?style=flat-square&logo=github&logoColor=70a5fd" alt="code" /></a></p>
     </td>
   </tr>
 </table>
@@ -167,13 +199,21 @@ class Shubhankar:
 
 ## 📊 GitHub Stats
 
+<!-- Cards below are generated by .github/workflows/profile-summary-cards.yml and
+     committed into this repo, so they never depend on a third-party instance. -->
+
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Punosie&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&count_private=true&include_all_commits=true" alt="stats" />
-  <img width="41%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Punosie&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&langs_count=8" alt="top languages" />
+  <img width="98%" src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="profile details" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Punosie&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd" alt="streak" />
+  <img width="49%" src="profile-summary-card-output/tokyonight/3-stats.svg" alt="github stats" />
+  <img width="49%" src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="repos per language" />
+</p>
+
+<p align="center">
+  <img width="49%" src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="most commit language" />
+  <img width="49%" src="profile-summary-card-output/tokyonight/4-productive-time.svg" alt="productive time" />
 </p>
 
 <p align="center">
